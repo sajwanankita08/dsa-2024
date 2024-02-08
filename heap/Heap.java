@@ -43,6 +43,14 @@ public class Heap {
         int index=currIndex;
         upHeapify(index);
     }
+
+    public int peek(){
+        if(currIndex<0){
+            System.out.println("heap is empty");
+            return -1;
+        }
+        return heap[0];
+    }
     //MAX_HEAP
     private void upHeapifyRecursion(int index){
         if(index<=0){
@@ -106,6 +114,28 @@ public class Heap {
             heap[0]=heap[currIndex];
             currIndex--;
             downHeapify(0);
+    }
+
+    public void print(){
+        for (int elem:
+                this.heap) {
+            System.out.print(elem + " ");
+        }
+        System.out.println();
+    }
+
+
+
+    public static void main(String[] args) {
+        Heap h= new Heap(10);
+        h.insert(1);
+        h.insert(2);
+        h.insert(3);
+        h.insert(4);
+        h.insert(15);
+        h.insert(16);
+        h.remove();
+        h.print();
     }
 
 }
