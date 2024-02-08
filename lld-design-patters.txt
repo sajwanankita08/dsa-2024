@@ -1,0 +1,27 @@
+Some of the Important Low Level Design Interview topics listed below :
+
+1. Snakes and Ladders. (Imp for Machine Coding too)
+2. Parking Lot (Imp for Machine Coding too)
+3. Elevator System (Imp for Machine Coding too)
+4. ATM
+5. Hotel Management System
+6. Splitwise (Machine Coding)
+7. Distributed Cache (Machine Coding)
+8. Stack Overflow
+9. Ludo
+10. Chess
+11. Car Renting Portal like Zoom Car
+12. Vending Machine
+13. Jira
+
+Important Design Patterns to Cover :
+
+Builder
+Singleton
+Decorators
+Factory
+Adapter
+Observer
+Facade
+Command
+Composite
