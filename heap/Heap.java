@@ -1,6 +1,6 @@
 package heap;
 
-public class Heap {
+public class Heap<T> {
     private int[] heap;
     private int maxSize;
     private int currIndex;
