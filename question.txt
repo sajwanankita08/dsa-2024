@@ -1,0 +1,74 @@
+Dp(45 problems):
+https://lnkd.in/dDbVmWbC
+
+Greedy(34 problems):
+https://lnkd.in/d8hYvvub
+
+Graphs(32 problems):
+https://lnkd.in/dFPn4MF4
+
+Backtracking(17 problems):
+https://lnkd.in/dJEgYR26
+
+Linkedlist(13 problems):
+https://lnkd.in/d-XwqYY4
+
+Bitmanipulation list(21 problems):
+https://lnkd.in/dq7JpC9K
+
+Hash table and map(46 problems):
+https://lnkd.in/dnhQKmyB
+
+Dsu or union find list(25 problems):
+https://lnkd.in/dgrF-xuQ
+
+Bridges and Articulation points(4 problems):
+https://lnkd.in/dwdbPbtS
+
+Djikstra Algorithm(13 problems):
+https://lnkd.in/drv7e9Dp
+
+Bellman Ford Algorithm(5 problems):
+https://lnkd.in/ddwntGDX
+
+Floyd Warshall Algorithm(6 problems):
+https://lnkd.in/dTn-fXev
+
+Topological sort(4 problems):
+https://lnkd.in/dmXE9-pm
+
+Sliding window(12 problems):
+https://lnkd.in/dBbmrCeV
+
+Trie(8 problems):
+https://lnkd.in/dUPzXpDA
+
+Monotonic queue and priority queue(13 problems):
+https://lnkd.in/dsRQcTPv
+
+Heaps(22 problems):
+https://lnkd.in/duvBAgtS
+
+Trees(Top 26)
+https://lnkd.in/dgRNQb3V
+
+Trees(Top 74):
+https://lnkd.in/d7Si9q-S
+
+Binary search(25 problems):
+https://lnkd.in/dEH9cJDA
+
+2pointers(30 problems):
+https://lnkd.in/dt95PN6a
+
+Must do easy questions:
+https://lnkd.in/dZS5JTZn
+
+Must do medium questons:
+https://lnkd.in/d5RJ-pBr
+
+60 questions to solve:
+https://lnkd.in/dRfA7hxn
+
+Blind curated 75:
+https://lnkd.in/dmaT3zbV
